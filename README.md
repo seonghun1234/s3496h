@@ -33,6 +33,4 @@ Welcome to my GitHub profile. Here's a quick overview of my technical skills and
 
 ---
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghun1234)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to connect with me or check out my repositories! 😊
